@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'crud.wsgi.application'
 #     }
 # }
 
-asdasdasdasdadasdas
+
 
 DATABASES = {
     'default': {
